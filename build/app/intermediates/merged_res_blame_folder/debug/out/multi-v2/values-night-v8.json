@@ -4,7 +4,7 @@
             "outputFile": "com.example.add_moduls_flutter.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/savitashukla/Documents/add_moduls_flutter/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/savitashukla/Documents/Savita pro/Flutter-Modules-Use/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

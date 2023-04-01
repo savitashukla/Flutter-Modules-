@@ -1,4 +1,4 @@
-#Sun Apr 02 04:03:49 IST 2023
-base.0=/Users/savitashukla/Documents/add_moduls_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Sun Apr 02 04:46:11 IST 2023
+base.0=/Users/savitashukla/Documents/Savita pro/Flutter-Modules-Use/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

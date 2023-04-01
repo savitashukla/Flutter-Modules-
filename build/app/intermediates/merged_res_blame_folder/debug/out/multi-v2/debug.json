@@ -642,7 +642,7 @@
                     }
                 },
                 {
-                    "source": "/Users/savitashukla/Documents/add_moduls_flutter/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/savitashukla/Documents/Savita pro/Flutter-Modules-Use/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -696,7 +696,7 @@
             "outputFile": "com.example.add_moduls_flutter.app-merged_res-11:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/savitashukla/Documents/add_moduls_flutter/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/savitashukla/Documents/Savita pro/Flutter-Modules-Use/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
